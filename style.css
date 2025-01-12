@@ -136,7 +136,7 @@ body {
     color: var(--cor-de-fundo);
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 800px) {
     .container {
 display: block;
 background-color: none;
